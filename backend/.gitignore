@@ -1,0 +1,21 @@
+# Environment & Secret Files
+.env
+*.env
+
+# Python Bytecode & Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Databases & Local Storage
+*.db
+*.sqlite3
+
+# Logs
+*.log
